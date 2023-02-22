@@ -11,5 +11,8 @@
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
 </p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dngiang2003&show_icons=true&theme=radical)
-https://github-readme-stats.vercel.app/api/top-langs/?username=dngiang2003&layout=compact&langs_count=7&theme=dracula
+<div align="center">
+  <a href="https://github.com/lucinaldocosta">
+  <img height="200em" width="380em" src="https://github-readme-stats.vercel.app/api?username=dngiang2003&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="200em" width="380em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dngiang2003&layout=compact&langs_count=7&theme=dracula"/>
+</div>
