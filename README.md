@@ -1,4 +1,7 @@
-<h2 align="center">Hi 👋, My name Do Ngoc Giang</h2>
-<h3 align="center">🌱 A college student in Hanoi University of Industry</h3>
+### Hello 👋 I'm Giang
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dngiang2003&label=Profile%20views&color=0e75b6&style=flat" alt="dngiang2003" /> </p>
+- 🏫 I am currently in my third year at HaUI.
+
+- 🌱 I am currently employed as a NodeJS developer.
+
+- 📫 You can reach me at: dongocgiang.edu@gmail.com
